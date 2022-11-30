@@ -1,0 +1,360 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+.for_top_section{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://images.squarespace-cdn.com/content/v1/57713a8e2994cae381dd86fe/1573307293973-6D1HTWIJO1QXQTBH3B4S/4G3A0012.jpg");
+    width:90%;
+    margin: auto;
+    padding:20px;
+    height:600px;
+    background-size: cover;
+    margin-top:50px;
+}
+
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:10px;
+}
+
+.nav p{
+    font-size: 25px;
+    color:white;
+}
+
+.nav a{
+    padding:10px 15px;
+    background-color: aliceblue;
+    color:#777575;
+    border-radius: 5px;
+    font-family: monospace;
+    font-size: 13.5px;
+}
+
+.nav a:hover{
+    background:linear-gradient(60deg,#929191,#d1d1d1, #eeeded);
+}
+
+.strive{
+    color:white;
+    height:600px;
+   padding:auto;
+}
+
+.strive .first_para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:600px;
+}
+
+.small_strive{
+    font-size: 27px;
+}
+
+.big_strive{
+    font-size: 60px;
+}
+
+
+.empowering{
+    background-color: white;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.empowering_first_section{
+    width:45%;
+}
+
+
+.empowering_second_section{
+    width:45%;
+    margin-top:20px;
+}
+
+.empowering_first_section a{
+    margin: 20px;
+
+}
+
+.empowering_student{
+    margin-top:10px;
+    margin-bottom: 20px;
+    font-size: 26px;
+    letter-spacing: 4px;
+    font-family: monospace;
+    color:#8b8a8a;
+}
+
+.for-link{
+    border:2px solid rgb(209, 209, 209);
+    width:50%;
+    padding: 20px 10px;
+    font-weight:bold;
+    margin-bottom: 30px;
+    margin-top:30px;
+}
+
+.for-link a{
+    color:rgb(184, 181, 181);
+}
+
+.for-links a{
+    color:rgb(185, 183, 183);
+}
+
+.for-linksd a{
+    color:rgb(185, 183, 183);
+}
+
+.for-links{
+    border:2px solid rgb(209, 209, 209);
+    width:60%;
+    padding: 20px 10px;
+    font-weight:bold;
+    margin-bottom: 30px;
+}
+
+.for-linksd{
+    border:2px solid rgb(209, 209, 209);
+    width:70%;
+    padding: 20px 10px;
+    font-weight:bold;
+    margin-bottom: 30px;
+}
+
+.empowering_second_section p{
+    font-size: 18px;
+    font-family: monospace;
+    line-height: 27px;
+} 
+
+
+.empowering_second_section ul li{
+    font-size: 17px;
+    font-family: monospace;
+    line-height: 37px;
+} 
+
+.Academic{
+    float:left;
+    margin:20px 13px;
+}
+
+.Academic p{
+    font-size: 25px;
+    font-family:monospace;
+    margin-top:15px;
+    margin-bottom: 30px;
+}
+
+.Academic a{
+    color:#a8a7a7;
+    border:2px solid #a7a3a3;
+    padding:15px 50px;
+    font-size: 20px;
+}
+
+.Academic a:hover{
+    color:#cac7c7;
+    border:2px solid #cac7c7;
+}
+
+
+.Vibrant{
+    float:left;
+    margin-top:20px;
+    width:100%;
+    height:600px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv4fckGrzHqurS2n08-ff9lJPGqtAWuqsB28BjGAaz_PCDbOz5e-T65VEiw0vsCCDO7BU&usqp=CAU");
+    background-size: cover; 
+    padding: 0 100px;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+
+
+.dana{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    color:white;
+}
+
+.dan{
+    font-size: 80px;
+}
+
+.student{
+    font-size: 15px;
+    color:white;
+    border:1px solid #e7e7e7;
+    padding:20px 40px;
+
+}
+
+.student:hover{
+    background-color: white;
+    color:black;
+}
+
+.ictht{
+    display:flex;
+    margin-top:20px;
+    margin-bottom: 100px;
+}
+
+.inter
+{
+    width:450px;
+    margin-right:25px;
+}
+
+.inter ul li{
+    margin-top:25px;
+}
+
+.inter ul li a{
+font-size: 18px;
+font-family: sans-serif;
+color:black;
+opacity: 0.8;
+}
+
+.inter ul li p{
+    margin-top: 10px;
+    color:rgb(156, 154, 154);
+    font-size: 15px;
+}
+
+
+.world{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.squarespace-cdn.com/content/v1/57713a8e2994cae381dd86fe/1546681503524-M1ECGGDWXW0C25OX5DBQ/audinew.jpg?format=2500w");
+    background-size: cover;
+    height:600px;
+    padding-bottom:50px;
+    box-sizing: border-box;
+    margin-bottom: 50px;;
+}
+
+.infrastructure{
+    display:flex;;
+    align-items: center;
+    justify-content: center;
+    height:600px;
+   
+}
+
+.suh{
+    font-size: 25px;
+    color:white;
+    letter-spacing: 6px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+.learn_more{
+    margin-top:30px;
+    font-size: 16px;
+    color:white;
+    border:2px solid white;
+    padding:20px 30px ;
+}
+.learn_more:hover{
+    color:black;
+    background-color: #e7e7e7;
+}
+
+
+.compliance_list{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.compliance{
+    width:45%;
+}
+
+.quick_links{
+    width:45%;
+
+}
+
+.compliance_list_1{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:50px;
+}
+
+.compliance_1{
+    width:45%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.quick_links_1{
+    width:45%;
+}
+
+.naac{
+    padding:10px 20px;
+    border: 2px solid #4e4c4c;
+    font-size: 14px;
+    letter-spacing: 3px;
+    color:#747070;
+    font-family: monospace;
+}
+
+
+.naac:hover{
+    color:white;
+    background-color: #4e4c4c;
+}
+
+#work{
+    margin-left:50px;
+}
+.fav_icon{
+    margin-top:50px;
+    margin-bottom: 50px;;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon a{
+    border-radius: 4px;
+    border: 2px solid #131313;
+    padding:10px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+    margin: 5px;
+}
+
+
+.icon a:hover{
+    background-color:#131212 ;
+    color:white;
+}
